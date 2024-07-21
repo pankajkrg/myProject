@@ -1,1 +1,1 @@
-added functionality 2
+removed functionality
